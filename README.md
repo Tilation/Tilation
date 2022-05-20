@@ -25,7 +25,7 @@ And these are my day to day development tools:
 ![](https://img.shields.io/badge/Azure_Pipelines-0089D6?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-These are the technologies that I'm interested or currently learning:
+These are the technologies that I'm interested on or currently learning:
 
 ![](https://img.shields.io/badge/Blazor-blueviolet?style=for-the-badge&logo=BLAZOR&logoColor=white)
 ![](https://img.shields.io/badge/Docker-0052CC?style=for-the-badge&logo=docker&logoColor=white)
