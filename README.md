@@ -6,6 +6,8 @@ My name is Gaspar and I'm currently living in southern Argentina, yes very cold 
 
 A few things that sparkle me with joy are procedural generation, automation and developing development tools.
 
+I'm a native windows software developer, I do the programming & design of all my software.
+
 My tech stack is:
 
 ![](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white)
