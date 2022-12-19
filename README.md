@@ -22,5 +22,8 @@ I'm a C# software developer, I do the programming & design of all my software an
 ## Interesting repositories
 
 These are my personal favourites:
-- [Template for fast and multiplatform C# Github actions](https://github.com/Tilation/multiplatform-github-action) 
-- [Multiplatform Regex Github action (using the previous template)](https://github.com/Tilation/multiplatform-regex) - [View on marketplace](https://github.com/marketplace/actions/multiplatform-regex)
+
+### My Github Actions
+This is the template that I use for my actions: [Template for fast and multiplatform C# Github actions](https://github.com/Tilation/multiplatform-github-action) 
+- [Multiplatform Regex](https://github.com/Tilation/multiplatform-regex)
+- [Multiplatform Commit Tagger](https://github.com/Tilation/multiplatform-commit-tagger)
