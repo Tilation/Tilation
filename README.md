@@ -15,9 +15,12 @@ I'm a C# software developer, I do the programming & design of all my software an
 ![](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Github%20Actions-667881?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Azure_Pipelines-0089D6?style=for-the-badge&logo=azure-pipelines&logoColor=white)
-![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Arduino-DDDDDD?style=for-the-badge&logo=arduino&logoColor=teal)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/CI%20&%20CD-667881?style=for-the-badge&logo=github&logoColor=white)
+
+## Interesting repositories
+
+These are my personal favourites:
+- [Template for fast and multiplatform C# Github actions](https://github.com/Tilation/multiplatform-github-action)
+- [Multiplatform Regex Github action (using the previous template)](https://github.com/Tilation/multiplatform-regex)
