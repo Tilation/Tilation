@@ -17,9 +17,8 @@ I'm a C# software developer, I do the programming & design of all my software an
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/CI%20&%20CD-667881?style=for-the-badge&logo=github&logoColor=white)
 
-## Interesting repositories
-
-These are my personal favourites:
+## Kestrel Served Static Site
+Separation of concerns while easing development with code gen: [Kestrel Served Static Site](https://github.com/Tilation/KestrelServedStaticSite)
 
 ### My Github Actions
 This is the template that I use for my actions: [Template for fast and multiplatform C# Github actions](https://github.com/Tilation/multiplatform-github-action) 
