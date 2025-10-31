@@ -16,11 +16,3 @@ I'm a C# software developer, I do the programming & design of all my software an
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/CI%20&%20CD-667881?style=for-the-badge&logo=github&logoColor=white)
-
-## Kestrel Served Static Site
-Separation of concerns while easing development with code gen: [Kestrel Served Static Site](https://github.com/Tilation/KestrelServedStaticSite)
-
-### My Github Actions
-This is the template that I use for my actions: [Template for fast and multiplatform C# Github actions](https://github.com/Tilation/multiplatform-github-action) 
-- [Multiplatform Regex](https://github.com/Tilation/multiplatform-regex)
-- [Multiplatform Commit Tagger](https://github.com/Tilation/multiplatform-commit-tagger)
