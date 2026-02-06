@@ -2,9 +2,9 @@
 
 My name is Gaspar, I'm from Argentina, a few things that sparkle me with joy are procedural generation, automation and developing development tools.
 
-I'm a C# software developer, I do the programming & design of all my software, which is made following the SOLID principles and aplying design patterns I learned in the way and in the university, some of the courses that I have done:
+I'm a C# software developer, I do the programming & design of all my software, which is made following the SOLID principles and aplying design patterns I learned in the way and in the university, some of the courses and projects that I have done:
 
-| Date | Entity | Link to Certificate | What I learned |
+| Date | Link | Details | What I learned |
 |------|--------|-------------|----------------|
 | 2026 | [Refactoring Guru](https://refactoring.guru/) | [![Static Badge](https://img.shields.io/badge/Course-Dive%20into%20Refactoring-red)](https://refactoring.guru/cert/r/MjAyNzA3) | Design Patterns: creational, behavioural and structural |
 | 2022 | [Image Campus](https://www.imagecampus.edu.ar/) | [![Static Badge](https://img.shields.io/badge/Course-Formacion%20Tecnica%20en%20Blender-blue)](https://github.com/Tilation/Tilation/blob/main/certificates/image%20campus%20tecnico%20blender/CORRARELLO%20-%20Certificado%20Digital%20de%20Aprobaci%C3%B3n%20-%20BLE-03-22.pdf) | Editor GUI, mesh manipulation tools, simple keyframe animations. |
